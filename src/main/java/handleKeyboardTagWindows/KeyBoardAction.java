@@ -16,7 +16,7 @@ public class KeyBoardAction{
         driver.get("https://text-compare.com/");
         driver.manage().window().maximize();
 
-        driver.get("https://text-compare.com/");
+        driver.get("https://text-compare.com/23423423423");
         driver.manage().window().maximize();
 
     }
