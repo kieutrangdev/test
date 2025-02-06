@@ -13,6 +13,11 @@ public class KeyBoardAction{
         driver.manage().window().maximize();
         Actions act = new Actions(driver);
 
+        driver.get("https://text-compare.com/");
+        driver.manage().window().maximize();
+
+        driver.get("https://text-compare.com/");
+        driver.manage().window().maximize();
 
     }
 }
